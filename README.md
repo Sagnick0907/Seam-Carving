@@ -1,14 +1,22 @@
 # Seam-Carving
 ## Table of Content
   * [Demo](#demo)
-  * [Problem Statement](#Problem Statement)
+  * [Problem Statement](#Problem-Statement)
   * [Description](#Description)
   * [Goal](#goal)
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
 
 ## Demo
-![Img CSP 1](https://user-images.githubusercontent.com/76872499/230558441-99055d5d-520d-45b2-8f59-d08ff75bb890.png)
+Orginal Image:   
+![image](https://github.com/Sagnick0907/Seam-Carving/assets/76872499/131c1c01-1d63-4df7-9e03-e6c2ee1fa773)
+Lowest Energy Seam:  
+![image](https://github.com/Sagnick0907/Seam-Carving/assets/76872499/e7be1ff6-ea9c-4ad9-a837-b695b4aee624)
+Resized image using Seam Carving:  
+![image](https://github.com/Sagnick0907/Seam-Carving/assets/76872499/9be896f7-5f38-408e-84c9-2be2eb15f362)
+
+
+
 
 ## Problem Statement
 Apply seam carving content aware image-resizing algorithm on a given image. Take the height and width (in pixels) of the output image as inputs from the user.
