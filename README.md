@@ -9,11 +9,11 @@
 
 ## Demo
 Orginal Image:   
-![image](https://github.com/Sagnick0907/Seam-Carving/assets/76872499/131c1c01-1d63-4df7-9e03-e6c2ee1fa773)
+![image](https://github.com/Sagnick0907/Seam-Carving/assets/76872499/131c1c01-1d63-4df7-9e03-e6c2ee1fa773)  
 Lowest Energy Seam:  
-![image](https://github.com/Sagnick0907/Seam-Carving/assets/76872499/e7be1ff6-ea9c-4ad9-a837-b695b4aee624)
+![image](https://github.com/Sagnick0907/Seam-Carving/assets/76872499/e7be1ff6-ea9c-4ad9-a837-b695b4aee624)  
 Resized image using Seam Carving:  
-![image](https://github.com/Sagnick0907/Seam-Carving/assets/76872499/9be896f7-5f38-408e-84c9-2be2eb15f362)
+![image](https://github.com/Sagnick0907/Seam-Carving/assets/76872499/9be896f7-5f38-408e-84c9-2be2eb15f362)  
 
 
 
